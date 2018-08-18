@@ -28,3 +28,6 @@ const VideoDetail = ({video}) => {
 }
 
 export default VideoDetail;
+
+
+// https://www.youtube.com/embed/sC5CAY1YDiQ
